@@ -1,0 +1,78 @@
+Decision Tree
+->It falls under Supervised Learning.
+->It can be used for both regression and classification problems.
+
+Some examples :-
+->Group of friends deciding to go on a trip.
+->To choose which stocks are the ones to be invested upon.
+->We can automate telephone systems.
+->To select a team .
+->Weather Predictions.
+
+Advantages of Decision tree
+->Simple to interpret.
+->Can be easily visualized.
+->Requires very less data prepration.
+->Able to handle both numerical and categorical data.
+->Very well recieved when it comes to classification.
+
+
+Disadvantages
+->Sometimes, it can create an complex trees (Overfitting).
+->It can be unstable because small variation can cost an entirely new and a different tree.
+->Created tree might get biased if some classes dominate.
+
+
+Key parts of a decision tree
+->Decision nodes / Root nodes
+->Chance nodes / Internal nodes
+->End nodes /Leaf nodes
+
+Two popular attribute selection measures
+1.Information gain - measure of this change in entropy
+2.Gini Index -It means that an attribute with lower gini index should be preffered.
+
+
+Steps to bulid model
+1.Import the libraries
+2.Read the data
+3.summarize the data
+4.Handling the missing values and outliers
+5.Encoding
+6.Feature Selection
+7.Normalize
+8.Split
+9.Building a model
+10.Predicting the model
+11.Evaluate the model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
